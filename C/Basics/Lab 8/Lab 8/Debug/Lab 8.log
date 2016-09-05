@@ -1,0 +1,17 @@
+﻿Build started 11/15/2013 1:29:37 PM.
+     1>Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8\Lab 8\Lab 8.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab 8.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Desktop\Car.cpp "Lab 8.cpp"
+         Lab 8.cpp
+     1>c:\users\owner\documents\visual studio 2010\projects\lab 8\lab 8\lab 8.cpp(16): error C2628: 'Cars' followed by 'void' is illegal (did you forget a ';'?)
+     1>c:\users\owner\documents\visual studio 2010\projects\lab 8\lab 8\lab 8.cpp(166): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>c:\users\owner\documents\visual studio 2010\projects\lab 8\lab 8\lab 8.cpp(166): warning C4018: '<' : signed/unsigned mismatch
+         Car.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8\Lab 8\Lab 8.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.22

@@ -1,0 +1,24 @@
+add Henry
+add Helen
+add Bob
+add Stephen
+add Daniel
+add Tom
+add Christine
+add Darryl
+add Dylan
+add Matthias
+add Jordan
+add George
+add Tyce
+add Michael
+add Auxa
+add Beth
+add Ali
+add Courtney
+print
+level 0: Helen(5) 
+level 1: Christine(4) Stephen(4) 
+level 2: Beth(3) Darryl(3) Jordan(3) Tom(2) 
+level 3: Auxa(2) Bob(1) Daniel(2) Dylan(2) Henry(1) Matthias(2) Tyce(1) 
+level 4: Ali(1) Courtney(1) George(1) Michael(1) 

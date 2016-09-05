@@ -1,0 +1,178 @@
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.pt18 {
+    font-size: 18pt;
+}
+
+.pt16 {
+    font-size: 16pt;
+}
+
+.pt15 {
+    font-size: 15pt;
+}
+
+.stretch {
+    width:100%;
+    height:auto;
+    position: relative;
+}
+
+.signUpBtn {
+    box-shadow: 0px 0px 5px;
+}
+
+.loginBackgroundImage {
+    background-image: url("https://images.unsplash.com/photo-1439761414027-4f4ebeeda3a3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=969f23b9f65b9b0c1779858502a20df2");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.aboutUsImage {
+    background: url("http://i.imgur.com/MxgNH13.jpg") no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.profileImg {
+    height: 100px;
+}
+
+#about-us {
+    text-align:center;
+}
+
+#logoutButton {
+    float: right;
+}
+
+.login {
+    display: inline-block;
+    background-color: #FFFFFF;/*#FF8182;*/
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px;
+}
+
+.aboutUsPerson {
+    display: inline-block;
+    width: 30%;
+}
+
+.aboutUsOuter {
+    display: inline-block;
+    width: 100%;
+}
+
+#searchInput {
+    width: 100%;
+    border: 1px solid #dadada;
+    padding: 4px 12px;
+    border-radius: 8px;
+}
+
+#searchInput:focus {
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+#priceMin {
+    border: 1px solid #dadada;
+    padding: 4px 12px;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+#priceMin:focus {
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+#priceMax {
+    border: 1px solid #dadada;
+    padding: 4px 12px;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+#priceMax:focus {
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+.loginInput {
+    width: 100%;
+    border: 1px solid #dadada;
+    padding: 4px 12px;
+    border-radius: 8px;
+}
+
+.loginInput:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+.loginButton {
+    width: 100%;
+    padding: 4px;
+    display: inline-block;
+}
+
+.outer {
+    text-align: center;
+    
+}
+
+.orSignUp {
+    display: inline-block;
+    padding: 2em;
+    margin-top: 5px;
+}
+
+
+.navbar, .navbar-default, .navbar-inverse, .navbar-fixed-top {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+body { 
+  padding: 45px 0 0 0;
+}
+
+.signup-error {
+    color: #b30000;
+}
+
+
+
+/*DELETE THIS v*/
+
+
+.white:link {
+    color: white;
+}
+
+.white:visited {
+    color: white;
+}
+
+.white:hover {
+    color: white;
+}
+
+.white:active {
+    color: white;
+}
+
+.white {
+    color: white;
+}

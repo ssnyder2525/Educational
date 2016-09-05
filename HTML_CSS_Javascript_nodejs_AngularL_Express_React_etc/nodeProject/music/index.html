@@ -1,0 +1,29 @@
+<html>
+    <script 
+		src="https://code.jquery.com/jquery-1.10.2.js">
+	</script> 
+    <body>
+    <input type="button" id="getSong" value="Get Song"/>
+    <div id="spotify"></div>
+    <script>
+        $( "#getSong" ).click(function(e) { 
+            var url = "http://uskkbfc97d90.ssnyder2525.koding.io:8080/getSong?q=fusion";
+			$.getJSON(url, function(data) { 
+			    $('#spotify').append(data[0].song);
+			}) 
+			.done(function() { 
+				console.log('getJSON request succeeded!'); 
+			}) 
+			.fail(function(jqXHR, textStatus, errorThrown) { 
+				console.log('getJSON request failed! ' + textStatus); 
+				console.log("incoming "+jqXHR.responseText); 
+			}) 
+			.always(function() { 
+			console.log('getJSON request ended!'); 
+			}) 
+			.complete(function() { 
+			console.log("complete"); 
+			}); 
+		});
+	</script>	
+	</body>

@@ -1,0 +1,13 @@
+﻿Build started 10/10/2013 1:53:37 PM.
+     1>Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Fun\Fun\Fun.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Fun.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Fail.cpp
+         Fail.cpp
+     1>c:\users\owner\documents\visual studio 2010\projects\fun\fun\fail.cpp(54): fatal error C1071: unexpected end of file found in comment
+     1>Done Building Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Fun\Fun\Fun.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.14

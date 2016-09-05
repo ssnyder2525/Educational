@@ -1,0 +1,817 @@
+Thu, 19 Nov 2015 02:55:34 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:20:9
+Thu, 19 Nov 2015 02:55:34 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+Thu, 19 Nov 2015 02:58:05 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:20:9
+Thu, 19 Nov 2015 02:58:05 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+{ Name: 'Mickey', Comment: 'Hello' }
+{ Name: 'Mickey', Comment: 'Hello' }
+[Error: /opt/bitnami/nodejs/lib/node_modules/mongodb/node_modules/bson/build/Release/bson.node: invalid ELF header]
+js-bson: Failed to load c++ bson extension, using pure JS version
+In comment route
+In GET
+Record added as 564d3adbb7a17c072f939b11
+Document Array: 
+[ { _id: 564c09f5a86d6ba823248bc4,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbdc161d7adb52a816920,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe3b65332ace2a57c48b,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe9e3f57c6e72a3d7795,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbebe4aaf84002b10f1d5,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d32c0ea52acb92d910c7f,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d37c4bc2dee542edbc572,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d3a10dc09cbb72ee601aa,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3a12dc09cbb72ee601ab,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3adbb7a17c072f939b11,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+{ Name: 'Mickey', Comment: 'Hello' }
+{ Name: 'Mickey', Comment: 'Hello' }
+Record added as 564d3ae0b7a17c072f939b12
+In comment route
+In GET
+Document Array: 
+[ { _id: 564c09f5a86d6ba823248bc4,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbdc161d7adb52a816920,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe3b65332ace2a57c48b,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe9e3f57c6e72a3d7795,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbebe4aaf84002b10f1d5,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d32c0ea52acb92d910c7f,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d37c4bc2dee542edbc572,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d3a10dc09cbb72ee601aa,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3a12dc09cbb72ee601ab,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3adbb7a17c072f939b11,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3ae0b7a17c072f939b12,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pr',
+  query: { q: 'Pr' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pr',
+  href: '/getCity/?q=Pr' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pro',
+  query: { q: 'Pro' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pro',
+  href: '/getCity/?q=Pro' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pr',
+  query: { q: 'Pr' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pr',
+  href: '/getCity/?q=Pr' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=',
+  href: '/getCity/?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=',
+  href: '/getCity/?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=A',
+  query: { q: 'A' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=A',
+  href: '/getCity/?q=A' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=A',
+  query: { q: 'A' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=A',
+  href: '/getCity/?q=A' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=',
+  href: '/getCity/?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=',
+  href: '/getCity/?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getcity',
+  path: '/getcity?q=',
+  href: '/getcity?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getcity',
+  path: '/getcity?q=',
+  href: '/getcity?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+In comment route
+In GET
+Document Array: 
+[ { _id: 564c09f5a86d6ba823248bc4,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbdc161d7adb52a816920,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe3b65332ace2a57c48b,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe9e3f57c6e72a3d7795,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbebe4aaf84002b10f1d5,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d32c0ea52acb92d910c7f,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d37c4bc2dee542edbc572,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d3a10dc09cbb72ee601aa,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3a12dc09cbb72ee601ab,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3adbb7a17c072f939b11,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3ae0b7a17c072f939b12,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+{ Name: 'Jordan', Comment: 'A TA was here...' }
+{ Name: 'Jordan', Comment: 'A TA was here...' }
+Record added as 564e031bb7a17c072f939b13
+In comment route
+In GET
+Document Array: 
+[ { _id: 564c09f5a86d6ba823248bc4,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbdc161d7adb52a816920,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe3b65332ace2a57c48b,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe9e3f57c6e72a3d7795,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbebe4aaf84002b10f1d5,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d32c0ea52acb92d910c7f,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d37c4bc2dee542edbc572,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d3a10dc09cbb72ee601aa,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3a12dc09cbb72ee601ab,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3adbb7a17c072f939b11,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3ae0b7a17c072f939b12,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564e031bb7a17c072f939b13,
+    Name: 'Jordan',
+    Comment: 'A TA was here...' } ]
+In comment route
+In GET
+Document Array: 
+[ { _id: 564c09f5a86d6ba823248bc4,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbdc161d7adb52a816920,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe3b65332ace2a57c48b,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe9e3f57c6e72a3d7795,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbebe4aaf84002b10f1d5,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d32c0ea52acb92d910c7f,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d37c4bc2dee542edbc572,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d3a10dc09cbb72ee601aa,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3a12dc09cbb72ee601ab,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3adbb7a17c072f939b11,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3ae0b7a17c072f939b12,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564e031bb7a17c072f939b13,
+    Name: 'Jordan',
+    Comment: 'A TA was here...' } ]
+In comment route
+In GET
+Document Array: 
+[ { _id: 564c09f5a86d6ba823248bc4,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbdc161d7adb52a816920,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe3b65332ace2a57c48b,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe9e3f57c6e72a3d7795,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbebe4aaf84002b10f1d5,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d32c0ea52acb92d910c7f,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d37c4bc2dee542edbc572,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d3a10dc09cbb72ee601aa,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3a12dc09cbb72ee601ab,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3adbb7a17c072f939b11,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3ae0b7a17c072f939b12,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564e031bb7a17c072f939b13,
+    Name: 'Jordan',
+    Comment: 'A TA was here...' } ]
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=A',
+  query: { q: 'A' },
+  pathname: '/getcity',
+  path: '/getcity?q=A',
+  href: '/getcity?q=A' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=A',
+  query: { q: 'A' },
+  pathname: '/getcity',
+  path: '/getcity?q=A',
+  href: '/getcity?q=A' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pr',
+  query: { q: 'Pr' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pr',
+  href: '/getCity/?q=Pr' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pro',
+  query: { q: 'Pro' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pro',
+  href: '/getCity/?q=Pro' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Prov',
+  query: { q: 'Prov' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Prov',
+  href: '/getCity/?q=Prov' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Provo',
+  query: { q: 'Provo' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Provo',
+  href: '/getCity/?q=Provo' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=',
+  href: '/getCity/?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=',
+  query: { q: '' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=',
+  href: '/getCity/?q=' }
+ReferenceError: ROOT_DIR is not defined
+    at /opt/bitnami/apache2/htdocs/expressLab/server.js:46:21
+    at callbacks (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:161:37)
+    at param (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:135:11)
+    at pass (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/opt/bitnami/apache2/htdocs/node_modules/express/lib/router/index.js:33:10)
+    at next (/opt/bitnami/apache2/htdocs/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at urlencodedParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/urlencoded.js:88:40)
+    at /opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/index.js:111:7
+    at jsonParser (/opt/bitnami/apache2/htdocs/expressLab/node_modules/body-parser/lib/types/json.js:100:40)
+Thu, 19 Nov 2015 20:26:27 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:20:9
+Thu, 19 Nov 2015 20:26:27 GMT body-parser deprecated undefined extended: provide extended option at node_modules/body-parser/index.js:105:29
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pr',
+  query: { q: 'Pr' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pr',
+  href: '/getCity/?q=Pr' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pro',
+  query: { q: 'Pro' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pro',
+  href: '/getCity/?q=Pro' }
+In comment route
+In GET
+[Error: /opt/bitnami/nodejs/lib/node_modules/mongodb/node_modules/bson/build/Release/bson.node: invalid ELF header]
+js-bson: Failed to load c++ bson extension, using pure JS version
+Document Array: 
+[ { _id: 564c09f5a86d6ba823248bc4,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbdc161d7adb52a816920,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe3b65332ace2a57c48b,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbe9e3f57c6e72a3d7795,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564cbebe4aaf84002b10f1d5,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d32c0ea52acb92d910c7f,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d37c4bc2dee542edbc572,
+    '{"Name":"Mickey","Comment":"Hello"}': '' },
+  { _id: 564d3a10dc09cbb72ee601aa,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3a12dc09cbb72ee601ab,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3adbb7a17c072f939b11,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564d3ae0b7a17c072f939b12,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564e031bb7a17c072f939b13,
+    Name: 'Jordan',
+    Comment: 'A TA was here...' } ]
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=P',
+  query: { q: 'P' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=P',
+  href: '/getCity/?q=P' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pr',
+  query: { q: 'Pr' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pr',
+  href: '/getCity/?q=Pr' }
+hey
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: '?q=Pro',
+  query: { q: 'Pro' },
+  pathname: '/getCity/',
+  path: '/getCity/?q=Pro',
+  href: '/getCity/?q=Pro' }

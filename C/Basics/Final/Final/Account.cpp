@@ -1,0 +1,56 @@
+#include "Account.h"
+
+
+Account::Account(double Balance_in, string Name_in):accountNumber(nextaccountNumber++)
+{
+	Balance=Balance_in;
+	Name= Name_in;
+	passedmonths=0;
+	interestrate=0;
+	cdwith=false;
+	tempbalance=Balance_in;
+	
+}
+
+
+Account::~Account(void)
+{
+}
+
+	int Account::getAccountNumber()
+	{
+		return Account::accountNumber;
+	}
+
+	double Account::getCurrentBalance()
+	{
+		cout<<Balance;
+		return Balance;
+	}
+
+	string Account::getAccountOwner()
+	{
+		return Name;
+	}
+
+	void Account::advanceMonth()
+	{
+		passedmonths++;
+	}
+
+	void Account::deposit(double amount)
+	{
+		Balance = Balance + amount;
+	}
+
+	bool Account::withdrawFromSavings(double amount)
+	{
+		return false;
+	}
+
+	bool Account::writeCheck(double amount)
+	{
+		return false;
+	}
+
+	int Account::nextaccountNumber=1;

@@ -1,0 +1,291 @@
+﻿Build started 10/26/2013 11:46:12 PM.
+     1>Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Vectors\Vectors\Vectors.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Vectors.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Vectors.cpp
+         Vectors.cpp
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vb_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_iterator<_Alloc>)' : could not deduce template argument for 'std::_Vb_iterator<_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(1985) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vb_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_iterator<_Alloc>)' : could not deduce template argument for 'std::_Vb_iterator<_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(1985) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vb_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_iterator<_Alloc>)' : could not deduce template argument for 'std::_Vb_iterator<_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(1985) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vb_const_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_const_iterator<_Alloc>)' : could not deduce template argument for 'std::_Vb_const_iterator<_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(1878) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vb_const_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_const_iterator<_Alloc>)' : could not deduce template argument for 'std::_Vb_const_iterator<_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(1878) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vb_const_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_const_iterator<_Alloc>)' : could not deduce template argument for 'std::_Vb_const_iterator<_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(1878) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vector_iterator<_Myvec> std::operator +(_Vector_iterator<_Myvec>::difference_type,std::_Vector_iterator<_Myvec>)' : could not deduce template argument for 'std::_Vector_iterator<_Myvec>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(407) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vector_iterator<_Myvec> std::operator +(_Vector_iterator<_Myvec>::difference_type,std::_Vector_iterator<_Myvec>)' : could not deduce template argument for 'std::_Vector_iterator<_Myvec>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(407) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vector_iterator<_Myvec> std::operator +(_Vector_iterator<_Myvec>::difference_type,std::_Vector_iterator<_Myvec>)' : could not deduce template argument for 'std::_Vector_iterator<_Myvec>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(407) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vector_const_iterator<_Myvec> std::operator +(_Vector_const_iterator<_Myvec>::difference_type,std::_Vector_const_iterator<_Myvec>)' : could not deduce template argument for 'std::_Vector_const_iterator<_Myvec>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(276) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vector_const_iterator<_Myvec> std::operator +(_Vector_const_iterator<_Myvec>::difference_type,std::_Vector_const_iterator<_Myvec>)' : could not deduce template argument for 'std::_Vector_const_iterator<_Myvec>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(276) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Vector_const_iterator<_Myvec> std::operator +(_Vector_const_iterator<_Myvec>::difference_type,std::_Vector_const_iterator<_Myvec>)' : could not deduce template argument for 'std::_Vector_const_iterator<_Myvec>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\vector(276) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_String_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_iterator<_Elem,_Traits,_Alloc>)' : could not deduce template argument for 'std::_String_iterator<_Elem,_Traits,_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstring(434) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_String_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_iterator<_Elem,_Traits,_Alloc>)' : could not deduce template argument for 'std::_String_iterator<_Elem,_Traits,_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstring(434) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_String_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_iterator<_Elem,_Traits,_Alloc>)' : could not deduce template argument for 'std::_String_iterator<_Elem,_Traits,_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstring(434) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_String_const_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_const_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_const_iterator<_Elem,_Traits,_Alloc>)' : could not deduce template argument for 'std::_String_const_iterator<_Elem,_Traits,_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstring(293) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_String_const_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_const_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_const_iterator<_Elem,_Traits,_Alloc>)' : could not deduce template argument for 'std::_String_const_iterator<_Elem,_Traits,_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstring(293) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_String_const_iterator<_Elem,_Traits,_Alloc> std::operator +(_String_const_iterator<_Elem,_Traits,_Alloc>::difference_type,std::_String_const_iterator<_Elem,_Traits,_Alloc>)' : could not deduce template argument for 'std::_String_const_iterator<_Elem,_Traits,_Alloc>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xstring(293) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Array_iterator<_Ty,_Size> std::operator +(_Array_iterator<_Ty,_Size>::difference_type,std::_Array_iterator<_Ty,_Size>)' : could not deduce template argument for 'std::_Array_iterator<_Ty,_Size>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2068) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Array_iterator<_Ty,_Size> std::operator +(_Array_iterator<_Ty,_Size>::difference_type,std::_Array_iterator<_Ty,_Size>)' : could not deduce template argument for 'std::_Array_iterator<_Ty,_Size>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2068) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Array_iterator<_Ty,_Size> std::operator +(_Array_iterator<_Ty,_Size>::difference_type,std::_Array_iterator<_Ty,_Size>)' : could not deduce template argument for 'std::_Array_iterator<_Ty,_Size>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2068) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Array_const_iterator<_Ty,_Size> std::operator +(_Array_const_iterator<_Ty,_Size>::difference_type,std::_Array_const_iterator<_Ty,_Size>)' : could not deduce template argument for 'std::_Array_const_iterator<_Ty,_Size>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1929) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Array_const_iterator<_Ty,_Size> std::operator +(_Array_const_iterator<_Ty,_Size>::difference_type,std::_Array_const_iterator<_Ty,_Size>)' : could not deduce template argument for 'std::_Array_const_iterator<_Ty,_Size>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1929) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Array_const_iterator<_Ty,_Size> std::operator +(_Array_const_iterator<_Ty,_Size>::difference_type,std::_Array_const_iterator<_Ty,_Size>)' : could not deduce template argument for 'std::_Array_const_iterator<_Ty,_Size>' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1929) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::reverse_iterator<_RanIt> std::operator +(_Diff,const std::reverse_iterator<_RanIt> &)' : could not deduce template argument for 'const std::reverse_iterator<_RanIt> &' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1323) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::reverse_iterator<_RanIt> std::operator +(_Diff,const std::reverse_iterator<_RanIt> &)' : could not deduce template argument for 'const std::reverse_iterator<_RanIt> &' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1323) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::reverse_iterator<_RanIt> std::operator +(_Diff,const std::reverse_iterator<_RanIt> &)' : could not deduce template argument for 'const std::reverse_iterator<_RanIt> &' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1323) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Revranit<_RanIt,_Base> std::operator +(_Diff,const std::_Revranit<_RanIt,_Base> &)' : could not deduce template argument for 'const std::_Revranit<_RanIt,_Base> &' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1136) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Revranit<_RanIt,_Base> std::operator +(_Diff,const std::_Revranit<_RanIt,_Base> &)' : could not deduce template argument for 'const std::_Revranit<_RanIt,_Base> &' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1136) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2784: 'std::_Revranit<_RanIt,_Base> std::operator +(_Diff,const std::_Revranit<_RanIt,_Base> &)' : could not deduce template argument for 'const std::_Revranit<_RanIt,_Base> &' from 'std::basic_string<_Elem,_Traits,_Ax>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(1136) : see declaration of 'std::operator +'
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(36): error C2676: binary '+' : 'std::string' does not define this operator or a conversion to a type acceptable to the predefined operator
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(44): error C3861: 'getline': identifier not found
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(52): error C3861: 'getline': identifier not found
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(53): error C3861: 'findstring': identifier not found
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(66): error C3867: 'std::vector<_Ty>::size': function call missing argument list; use '&std::vector<_Ty>::size' to create a pointer to member
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(66): error C2446: '>' : no conversion from 'unsigned int (__thiscall std::vector<_Ty>::* )(void) const' to 'unsigned int'
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+                 There is no context in which this conversion is possible
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(66): error C2297: '>' : illegal, right operand has type 'unsigned int (__thiscall std::vector<_Ty>::* )(void) const'
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+     1>c:\users\owner\documents\visual studio 2010\projects\vectors\vectors\vectors.cpp(68): error C2678: binary '==' : no operator found which takes a left-hand operand of type 'std::basic_string<_Elem,_Traits,_Ax>' (or there is no acceptable conversion)
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\exception(470): could be 'bool std::operator ==(const std::_Exception_ptr &,const std::_Exception_ptr &)'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\exception(475): or       'bool std::operator ==(std::_Null_type,const std::_Exception_ptr &)'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\exception(481): or       'bool std::operator ==(const std::_Exception_ptr &,std::_Null_type)'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\system_error(408): or       'bool std::operator ==(const std::error_code &,const std::error_condition &)'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\system_error(416): or       'bool std::operator ==(const std::error_condition &,const std::error_code &)'
+                 while trying to match the argument list '(std::basic_string<_Elem,_Traits,_Ax>, std::string)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Ax=std::allocator<char>
+                 ]
+     1>Done Building Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Vectors\Vectors\Vectors.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.65

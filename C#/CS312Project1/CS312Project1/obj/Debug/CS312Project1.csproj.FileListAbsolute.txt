@@ -1,0 +1,21 @@
+c:\users\stephen\desktop\CS312Project1\CS312Project1\bin\Debug\CS312Project1.exe.config
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\obj\Debug\CS312Project1.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\obj\Debug\CS312Project1.theOneAndOnlyForm.resources
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\obj\Debug\CS312Project1.Properties.Resources.resources
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\obj\Debug\CS312Project1.csproj.GenerateResource.Cache
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\bin\Debug\CS312Project1.exe
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\bin\Debug\CS312Project1.pdb
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\obj\Debug\CS312Project1.exe
+C:\Users\Stephen\desktop\CS312Project1\CS312Project1\obj\Debug\CS312Project1.pdb
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\bin\Debug\CS312Project1.exe.config
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.exe
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.pdb
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\bin\Debug\CS312Project1.exe
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\bin\Debug\CS312Project1.pdb
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.theOneAndOnlyForm.resources
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.Properties.Resources.resources
+C:\Users\Stephen\Desktop\Class Stuff\CS 312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\GitHub\CS-312\CS312Project1\CS312Project1\bin\Debug\CS312Project1.exe.config
+C:\Users\Stephen\Documents\GitHub\CS-312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.exe
+C:\Users\Stephen\Documents\GitHub\CS-312\CS312Project1\CS312Project1\obj\Debug\CS312Project1.pdb

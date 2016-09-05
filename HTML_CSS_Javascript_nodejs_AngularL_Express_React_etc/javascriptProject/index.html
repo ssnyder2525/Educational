@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<style>
+			body {
+				background-color: #e4d2ba
+			}
+			.button {
+				text-align: center;
+				padding-top:5px;
+				padding-bottom: 0px;
+				height: 35px;
+				width: 120px;
+				display: block;
+				float: left;
+				box-shadow: 10px 10px 5px #888888;
+				border: solid 2px;
+				border-radius: 10px;
+				border-color: darkred;
+				margin: 10px;
+				background-color: #e4d2ba
+			}
+			.button:hover {
+				box-shadow: 10px 10px #888888;
+			}
+			.button:active {
+				box-shadow:none;
+				margin-top:16px;
+				margin-left:16px;
+			}
+		</style>
+	</head>
+	<body>
+	<h1>Testing Javascript</h1>
+		<div class="button" onclick="changeText(1)">
+			<b>Red Times</b>
+		</div>
+		<div class="button" onclick="changeText(2)">
+			<b>Green</b>
+		</div>
+		<div class="button" onclick="changeText(3)">
+			<b>Blue Arial</b>
+		</div>
+		<div class="button" onclick="changeText(4)">
+			<b>Black Hello<b>
+		</div>
+		<br><br><br><br>
+		<p>
+			<div>
+				<h1 id="textToChange">This is some text to be displayed and changed.</h1>
+			</div>
+		</p>
+	</body>
+	<script>
+		function changeText(button) {
+			if(button == 1) {
+				document.getElementById("textToChange").style.color = "red";
+				document.getElementById("textToChange").style.fontFamily = "Times New Roman";
+			}
+			if(button == 2) {
+				document.getElementById("textToChange").style.color = "green";
+			}
+			if(button == 3) {
+				document.getElementById("textToChange").style.color = "blue";
+				document.getElementById("textToChange").style.fontFamily = "Arial";
+			}
+			if(button == 4) {
+				document.getElementById("textToChange").style.color = "black";
+				document.getElementById("textToChange").innerHTML = "Hello";
+			}
+		}
+	</script>
+</html>

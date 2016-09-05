@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Music Selector</title>
+	<link rel="stylesheet" type="text/css" href="theme.css">
+	<script 
+		src="https://code.jquery.com/jquery-1.10.2.js">
+	</script> 
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+<script type="text/javascript" src="app.js"></script>
+</head>
+<body ng-app="mainApp">
+
+<div class='background'>
+	<div class='image'>  <!-- quick transparent fix -->
+	</div>
+</div>
+
+<div class="form" ng-controller="MainController">
+	<p>Enter a Song Here!</p>
+	<form ng-submit="todoAdd()">  <!-- should take input value -->
+		<input id="searchBox" type="text" size="40" ng-model="sentence" placeholder="Enter a song">
+		<input id="getSong" type="submit"  value="Submit">
+	</form>
+    
+    	<div id="outputSection" ng-repeat="x in list">
+    		
+    	</div>
+    
+</div>
+
+	<script>
+        $( "#getSong" ).click(function(e) { 
+            $('#outputSection').empty();
+            var url = "http://uskkbfc97d90.ssnyder2525.koding.io:3000/getSong?q=" + searchBox.value;
+			$.getJSON(url, function(data) { 
+			    console.log(data.tracks.items);
+			    var tracks = data.tracks.items;
+			    for(i= 0; i<tracks.length; i++) {
+			        console.log(tracks[i].name + tracks[i].preview_url);
+			        $('#outputSection').append("<a class='track' href=" + tracks[i].preview_url + ">" + tracks[i].name + "</a><br>");
+			    }
+			}) 
+			.done(function() { 
+				console.log('getJSON request succeeded!'); 
+			}) 
+			.fail(function(jqXHR, textStatus, errorThrown) { 
+				console.log('getJSON request failed! ' + textStatus); 
+				console.log("incoming "+jqXHR.responseText); 
+			}) 
+			.always(function() { 
+			console.log('getJSON request ended!'); 
+			}) 
+			.complete(function() { 
+			console.log("complete"); 
+			}); 
+		});
+	</script>
+</body>
+</html>

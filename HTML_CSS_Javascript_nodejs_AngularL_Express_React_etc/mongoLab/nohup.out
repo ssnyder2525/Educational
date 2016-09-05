@@ -1,0 +1,162 @@
+comment route
+In GET
+[Error: /opt/bitnami/nodejs/lib/node_modules/mongodb/node_modules/bson/build/Release/bson.node: invalid ELF header]
+js-bson: Failed to load c++ bson extension, using pure JS version
+comment route
+In Post:
+{ Name: 'Mickey', Comment: 'Hello' }
+Name: Mickey
+Comment: Hello
+Document Array: 
+[ { _id: 56427558eaff7acb089920ca,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427590eaff7acb089920cb,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564275d10b8089f50819fddd,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+null
+Record added as [object Object]
+comment route
+In Post:
+{ Name: 'Mickey', Comment: 'Hello' }
+Name: Mickey
+Comment: Hello
+[Error: /opt/bitnami/nodejs/lib/node_modules/mongodb/node_modules/bson/build/Release/bson.node: invalid ELF header]
+js-bson: Failed to load c++ bson extension, using pure JS version
+comment route
+In GET
+null
+Record added as [object Object]
+Document Array: 
+[ { _id: 56427558eaff7acb089920ca,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427590eaff7acb089920cb,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564275d10b8089f50819fddd,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276334299230d09523e33,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276cd3209024a0963d17f,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+comment route
+In Post:
+{ Name: 'Mickey', Comment: 'Hello' }
+Name: Mickey
+Comment: Hello
+comment route
+In GET
+Document Array: 
+[ { _id: 56427558eaff7acb089920ca,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427590eaff7acb089920cb,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564275d10b8089f50819fddd,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276334299230d09523e33,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276cd3209024a0963d17f,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+null
+Record added as [object Object]
+comment route
+In Post:
+{ Name: 'Mickey', Comment: 'Hello' }
+Name: Mickey
+Comment: Hello
+comment route
+In GET
+null
+Record added as [object Object]
+Document Array: 
+[ { _id: 56427558eaff7acb089920ca,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427590eaff7acb089920cb,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564275d10b8089f50819fddd,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276334299230d09523e33,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276cd3209024a0963d17f,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427bdc3209024a0963d180,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427bdd3209024a0963d181,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+comment route
+In GET
+Document Array: 
+[ { _id: 56427558eaff7acb089920ca,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427590eaff7acb089920cb,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564275d10b8089f50819fddd,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276334299230d09523e33,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276cd3209024a0963d17f,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427bdc3209024a0963d180,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427bdd3209024a0963d181,
+    Name: 'Mickey',
+    Comment: 'Hello' } ]
+comment route
+In GET
+comment route
+In Post:
+{ Name: 'Jordan', Comment: 'A TA was here...' }
+Name: Jordan
+Comment: A TA was here...
+null
+Record added as [object Object]
+Document Array: 
+[ { _id: 56427558eaff7acb089920ca,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427590eaff7acb089920cb,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564275d10b8089f50819fddd,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276334299230d09523e33,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 564276cd3209024a0963d17f,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427bdc3209024a0963d180,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56427bdd3209024a0963d181,
+    Name: 'Mickey',
+    Comment: 'Hello' },
+  { _id: 56436b553209024a0963d182,
+    Name: 'Jordan',
+    Comment: 'A TA was here...' } ]

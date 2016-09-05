@@ -1,0 +1,7 @@
+﻿'Fun.exe': Loaded 'C:\Users\Owner\Documents\Visual Studio 2010\Projects\Fun\Debug\Fun.exe', Symbols loaded.
+'Fun.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Fun.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Fun.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Fun.exe': Loaded 'C:\Windows\SysWOW64\msvcp100d.dll', Symbols loaded.
+'Fun.exe': Loaded 'C:\Windows\SysWOW64\msvcr100d.dll', Symbols loaded.
+The program '[2768] Fun.exe: Native' has exited with code 0 (0x0).

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1st Midterm", "1st Midterm\1st Midterm.vcxproj", "{12219344-C3E1-424B-8B7C-9E4BADA5A0F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12219344-C3E1-424B-8B7C-9E4BADA5A0F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12219344-C3E1-424B-8B7C-9E4BADA5A0F5}.Debug|Win32.Build.0 = Debug|Win32
+		{12219344-C3E1-424B-8B7C-9E4BADA5A0F5}.Release|Win32.ActiveCfg = Release|Win32
+		{12219344-C3E1-424B-8B7C-9E4BADA5A0F5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

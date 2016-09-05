@@ -1,0 +1,23 @@
+﻿Build started 11/18/2013 10:51:50 AM.
+     1>Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Lab 8 with classes\Lab 8 with classes.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab 8 with classes.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Lab 8.cpp"
+         Lab 8.cpp
+     1>c:\users\owner\documents\visual studio 2010\projects\lab 8 with classes\lab 8 with classes\lab 8.cpp(121): warning C4101: 'price' : unreferenced local variable
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Debug\Lab 8 with classes.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Lab 8 with classes.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Debug\Lab 8 with classes.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Debug\Lab 8 with classes.lib" /MACHINE:X86 Debug\Car.obj
+         "Debug\Lab 8.obj"
+         LINK : C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Debug\Lab 8 with classes.exe not found or not built by the last incremental link; performing full link
+         Lab 8 with classes.vcxproj -> C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Debug\Lab 8 with classes.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Debug\Lab 8 with classes.exe;#1" /manifest "Debug\Lab 8 with classes.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab 8 with classes.unsuccessfulbuild".
+         Touching "Debug\Lab 8 with classes.lastbuildstate".
+     1>Done Building Project "C:\Users\Owner\Documents\Visual Studio 2010\Projects\Lab 8 with classes\Lab 8 with classes\Lab 8 with classes.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.76

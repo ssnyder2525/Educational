@@ -1,0 +1,41 @@
+﻿Build started 12/19/2013 10:51:22 PM.
+     1>Project "C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Final test\Final test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Final test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\Final - Copy\Final\Account.cpp" "..\Final - Copy\Final\Bank.cpp" "..\Final - Copy\Final\C_D.cpp" "..\Final - Copy\Final\Checking.cpp" "..\Final - Copy\Final\CheckingPlus.cpp" "..\Final - Copy\Final\CheckingPlusPlus.cpp" "..\Final - Copy\Final\Factory.cpp" "..\Final - Copy\Final\Savings.cpp" "..\Final - Copy\Final\SavingsPlus.cpp" "..\Final - Copy\Final\TestDriver.cpp"
+         Bank.cpp
+         Account.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         TestDriver.cpp
+         SavingsPlus.cpp
+         Savings.cpp
+         Factory.cpp
+         CheckingPlusPlus.cpp
+         CheckingPlus.cpp
+         Checking.cpp
+         C_D.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Debug\Final test.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Final test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Debug\Final test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Debug\Final test.lib" /MACHINE:X86 Debug\Account.obj
+         Debug\Bank.obj
+         Debug\Checking.obj
+         Debug\CheckingPlus.obj
+         Debug\CheckingPlusPlus.obj
+         Debug\C_D.obj
+         Debug\Factory.obj
+         Debug\Savings.obj
+         Debug\SavingsPlus.obj
+         Debug\TestDriver.obj
+         LINK : C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Debug\Final test.exe not found or not built by the last incremental link; performing full link
+         Final test.vcxproj -> C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Debug\Final test.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Debug\Final test.exe;#1" /manifest "Debug\Final test.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Final test.unsuccessfulbuild".
+         Touching "Debug\Final test.lastbuildstate".
+     1>Done Building Project "C:\Users\Stephen\Documents\Visual Studio 2010\Projects\Final test\Final test\Final test.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.98
